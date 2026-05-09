@@ -1,8 +1,0 @@
-{
-  "buildCommand": "npm run build",
-  "outputDirectory": "out",
-  "devCommand": "npm run dev",
-  "installCommand": "npm install",
-  "framework": "nextjs",
-  "trailingSlash": true
-}
